@@ -14,6 +14,9 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 - Multilingual/Multiculture in LLMs
 - Robotics (still exploring around)
 
+## News
+TBU
+
 ## Publications
 
 - **OpenSeal: Good, Fast, and Cheap Construction of an Open-Source Southeast Asian LLM via Parallel Data**  
@@ -42,6 +45,38 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 
 - **Fog Computing Enabled Hydroponic Farming Systems**  
   QT Minh, VNT Gia, **SN Tan**, PN Huu, T Tsuchiya. *Journal of Mobile Multimedia* 18 (4), 981-1008, 2022. [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:d1gkVwhDpl0C)
+
+## Services
+
+- **Conference Reviewer / PC Member**: LM4UC@IJCAI 2026
+
+## Education
+
+- **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
+  Master of Engineering in Computer Science (English Program), Oct 2021 – Nov 2023  
+  Advisor(s): Assoc. Prof. Quan Thanh Tho.
+
+- **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
+  Bachelor of Engineering in Computer Science (English Program), Oct 2015 – Nov 2020  
+  Advisor(s): Assoc. Prof. Tran Minh Quang.
+
+## Industry Experience
+
+- **Younet Social**, Product — HCMC, Vietnam  
+  Backend Engineer, Nov 2020 – Jun 2025
+  - Maintaining and developing MetaFox, a niche social network and the flagship product of Younet Social, encompassing various apps and modules within the MetaFox ecosystem.
+  - Providing technical support and expertise to clients, ensuring the successful implementation of custom solutions.
+  - Development of AI Chatbot leveraging LLM. Building the chat workflow leveraging the knowledge base and RAG techniques. Furthermore, knowledge graph has been researched and applied to enhance reasoning ability.
+
+- **Younet Media**, Research and Development — HCMC, Vietnam  
+  Engineer, Oct 2023 – March 2024
+  - Applying advanced natural language processing techniques, including large language models like GPT-3.5, Mistral-7b, Mixtral-8x7b, etc., for aspect-based sentiment analysis and multi-label classification.
+  - Developing pipelines for sentiment analysis and aspect extraction, enhancing understanding of customer feedback.
+  - Researching and developing a pipeline for clustering and detecting seeding comments.
+
+- **Verztec Consulting (Vietnam) Co. Ltd**, Development — HCMC, Vietnam  
+  Intern, June 2018 – Aug 2018
+  - Backend web developer (PHP – Laravel framework) attending to maintain several websites, including InseeEcocycle (Insee Vietnam), InseeConnect (Insee Vietnam), Cosmo, and Markraft (Markraft Cabinets, Inc).
 
 ## Contact
 
