@@ -58,7 +58,7 @@ TBU
 
 - **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
   Bachelor of Engineering in Computer Science (English Program), Oct 2015 – Nov 2020  
-  Advisor(s): [Assoc. Prof. Tran Minh Quang](https://scholar.google.com/citations?user=6FDHPzAAAAAJ&hl=en).
+  Advisor(s): [Assoc. Prof. Tran Minh Quang](https://scholar.google.com/citations?user=6FDHPzAAAAAJ&hl=en)
 
 ## Industry Experience
 
