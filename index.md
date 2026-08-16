@@ -54,11 +54,11 @@ TBU
 
 - **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
   Master of Engineering in Computer Science (English Program), Oct 2021 – Nov 2023  
-  Advisor(s): Assoc. Prof. Quan Thanh Tho.
+  Advisor(s): [Assoc. Prof. Quan Thanh Tho](https://www.cse.hcmut.edu.vn/qttho/doku.php?id=start)
 
 - **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
   Bachelor of Engineering in Computer Science (English Program), Oct 2015 – Nov 2020  
-  Advisor(s): Assoc. Prof. Tran Minh Quang.
+  Advisor(s): [Assoc. Prof. Tran Minh Quang](https://scholar.google.com/citations?user=6FDHPzAAAAAJ&hl=en).
 
 ## Industry Experience
 
@@ -76,7 +76,7 @@ TBU
 
 - **Verztec Consulting (Vietnam) Co. Ltd**, Development — HCMC, Vietnam  
   Intern, June 2018 – Aug 2018
-  - Backend web developer (PHP – Laravel framework) attending to maintain several websites, including InseeEcocycle (Insee Vietnam), InseeConnect (Insee Vietnam), Cosmo, and Markraft (Markraft Cabinets, Inc).
+  - Backend web developer (PHP – Laravel framework) attending to maintain several websites, including InseeEcocycle and InseeConnect(Insee Vietnam), Cosmo, and Markraft (Markraft Cabinets, Inc).
 
 ## Contact
 
