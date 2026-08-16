@@ -14,10 +14,10 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 - Multilingual/Multiculture in LLMs
 - Robotics (still exploring around)
 
-## News
+# News
 TBU
 
-## Publications
+# Publications
 
 - **OpenSeal: Good, Fast, and Cheap Construction of an Open-Source Southeast Asian LLM via Parallel Data**  
   **TS Nguyen**, MR Qorib, HT Ng. *arXiv preprint arXiv:2602.02266*, 2026. [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:W7OEmFMy1HYC)
@@ -46,11 +46,11 @@ TBU
 - **Fog Computing Enabled Hydroponic Farming Systems**  
   QT Minh, VNT Gia, **SN Tan**, PN Huu, T Tsuchiya. *Journal of Mobile Multimedia* 18 (4), 981-1008, 2022. [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:d1gkVwhDpl0C)
 
-## Services
+# Services
 
 - **Conference Reviewer / PC Member**: LM4UC@IJCAI 2026
 
-## Education
+# Education
 
 - **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam  
   Master of Engineering in Computer Science (English Program), Oct 2021 – Nov 2023  
@@ -78,7 +78,7 @@ TBU
   Intern, June 2018 – Aug 2018
   - Backend web developer (PHP – Laravel framework) attending to maintain several websites, including InseeEcocycle and InseeConnect(Insee Vietnam), Cosmo, and Markraft (Markraft Cabinets, Inc).
 
-## Contact
+# Contact
 
 - [GitHub](https://github.com/sangnt1552314)
 - [LinkedIn](https://www.linkedin.com/in/sangnt934/)
