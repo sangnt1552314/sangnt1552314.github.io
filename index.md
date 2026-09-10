@@ -15,7 +15,9 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 - Robotics (still exploring around)
 
 # News
-TBU
+
+- **09/2026** — 1 paper accepted into AACL 2026 (Main)
+- **08/2026** — 1 paper accepted into EMNLP 2026 (Findings)
 
 # Publications
 
@@ -48,7 +50,7 @@ TBU
 
 # Services
 
-- **Conference Reviewer / PC Member**: LM4UC@IJCAI 2026
+- **Conference Reviewer / PC Member**: LM4UC@IJCAI 2026, CSoNet 2026
 
 # Education
 
