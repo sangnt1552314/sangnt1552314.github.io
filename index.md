@@ -30,9 +30,6 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 - **Sentence-Aware Bahnaric-Vietnamese Lexical Mapping with Contrastive Contextual Representations**  
   TT Nguyen, PT Tran-Truong, L Nguyen, **TS Nguyen**, T Quan. *Second Workshop on Language Models for Underserved Communities (LM4UC)*, 2026. [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:Y0pCki6q_DkC)
 
-- **Low-Rank Adaptation Approach for Vietnamese-Bahnaric Lexical Mapping from Non-Parallel Corpora**  
-  [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:9yKSN-GCB0IC)
-
 - **Text-JEPA: A Joint Embedding Predictive Architecture for the Conversion of Natural Language into First-Order Logic**  
   T Le, P Thai, **S Nguyen**, M Hua, N Pham, T Bui, T Quan, T Bui. *International Conference on Computational Collective Intelligence*, 200-214, 2025. [[Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1RyWgLgAAAAJ&citation_for_view=1RyWgLgAAAAJ:zYLM7Y9cAGgC)
 
