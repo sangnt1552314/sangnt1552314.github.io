@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-I am a PhD student in Computer Science working on AI, NLP, and LLMs at the [National University of Singapore](https://www.nus.edu.sg/). Before joining NUS, I obtained my B.Eng and M.Eng in Computer Science from [Ho Chi Minh City University of Technology - Vietnam National University (HCMUT-VNU)](https://hcmut.edu.vn/en).
+I am a PhD student in Computer Science working on AI, Robotics, NLP, and LLMs at the [National University of Singapore](https://www.nus.edu.sg/). Before joining NUS, I obtained my B.Eng and M.Eng in Computer Science from [Ho Chi Minh City University of Technology - Vietnam National University (HCMUT-VNU)](https://hcmut.edu.vn/en).
 
 Besides, I had been a Backend Web Developer at [Younet Social](https://younetsocial.com/), since I graduated in 2020.
 
@@ -16,6 +16,7 @@ Besides, I had been a Backend Web Developer at [Younet Social](https://younetsoc
 
 # News
 
+- **11/2026** — 1 paper accepted into WDSM 2026 (Main)
 - **09/2026** — 1 paper accepted into AACL 2026 (Main)
 - **08/2026** — 1 paper accepted into EMNLP 2026 (Findings)
 
